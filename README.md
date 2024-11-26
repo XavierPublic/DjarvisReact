@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-"# DjarvisReact" 
+# DjarvisReact
 =======
 # Getting Started with Create React App
 
